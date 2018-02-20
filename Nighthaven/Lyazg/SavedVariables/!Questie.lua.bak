@@ -1,0 +1,204 @@
+
+QuestieSeenQuests = {
+	[4003656890] = 0,
+	[1579250890] = 1,
+	[3746141602] = 0,
+	[3118222898] = 0,
+	[3981859658] = 0,
+	[1360639778] = 0,
+	[3353834394] = 0,
+	[963090066] = 1,
+	[765190074] = 0,
+	[3577511882] = 0,
+	[893745186] = 0,
+}
+QuestieTrackedQuests = {
+	[765190074] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Taillasher Egg: 0/3",
+		},
+		["leaderboards"] = 1,
+		["questName"] = "Break a Few Eggs",
+		["level"] = 8,
+		["tracked"] = true,
+		["arrowPoint"] = {
+			["hash"] = 765190074,
+			["c"] = 1,
+			["dist"] = 1262.113970429935,
+			["yDelta"] = 1106.924907282858,
+			["xDelta"] = 606.340600645588,
+			["y"] = 0.7367,
+			["x"] = 0.6421,
+			["title"] = "|cFFFFFF00[8] Break a Few Eggs|r",
+			["z"] = 6,
+		},
+	},
+	[3981859658] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "object",
+			["desc"] = "Attack Plan: Valley of Trials destroyed: 0/1",
+		},
+		["tracked"] = true,
+		["arrowPoint"] = {
+			["hash"] = 3981859658,
+			["c"] = 1,
+			["dist"] = 1267.351700444896,
+			["yDelta"] = 1238.759902717428,
+			["xDelta"] = -267.6830888197436,
+			["y"] = 0.7741,
+			["x"] = 0.4768,
+			["title"] = "|cFFFFFF00[8] Thwarting Kolkar Aggression|r",
+			["z"] = 6,
+		},
+		["objective2"] = {
+			["notes"] = {
+			},
+			["type"] = "object",
+			["desc"] = "Attack Plan: Sen'jin Village destroyed: 0/1",
+		},
+		["questName"] = "Thwarting Kolkar Aggression",
+		["level"] = 8,
+		["objective3"] = {
+			["notes"] = {
+			},
+			["type"] = "object",
+			["desc"] = "Attack Plan: Orgrimmar destroyed: 0/1",
+		},
+		["leaderboards"] = 3,
+	},
+	[1360639778] = {
+		["tracked"] = false,
+		["isComplete"] = 1,
+		["questName"] = "The Admiral's Orders",
+		["leaderboards"] = 0,
+		["level"] = 7,
+	},
+	[3353834394] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Minshina's Skull: 0/1",
+		},
+		["leaderboards"] = 1,
+		["questName"] = "Minshina's Skull",
+		["level"] = 9,
+		["tracked"] = false,
+	},
+	[893745186] = {
+		["objective1"] = {
+			["type"] = "monster",
+			["done"] = 1,
+			["notes"] = {
+			},
+			["desc"] = "Razormane Quilboar slain: 4/4",
+		},
+		["tracked"] = false,
+		["objective2"] = {
+			["type"] = "monster",
+			["done"] = 1,
+			["notes"] = {
+			},
+			["desc"] = "Razormane Scout slain: 4/4",
+		},
+		["objective4"] = {
+			["notes"] = {
+			},
+			["type"] = "monster",
+			["desc"] = "Razormane Battleguard slain: 0/4",
+		},
+		["questName"] = "Encroachment",
+		["level"] = 10,
+		["leaderboards"] = 4,
+		["objective3"] = {
+			["notes"] = {
+			},
+			["type"] = "monster",
+			["desc"] = "Razormane Dustrunner slain: 0/4",
+		},
+	},
+	[3118222898] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Durotar Tiger Fur: 0/4",
+		},
+		["leaderboards"] = 1,
+		["questName"] = "Practical Prey",
+		["level"] = 8,
+		["tracked"] = true,
+		["arrowPoint"] = {
+			["hash"] = 3118222898,
+			["c"] = 1,
+			["dist"] = 1352.530935034664,
+			["yDelta"] = 1057.927408979635,
+			["xDelta"] = 842.6918342759587,
+			["y"] = 0.7228,
+			["x"] = 0.6868,
+			["title"] = "|cFFFFFF00[8] Practical Prey|r",
+			["z"] = 6,
+		},
+	},
+	[3577511882] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Canvas Scraps: 0/8",
+		},
+		["leaderboards"] = 1,
+		["questName"] = "Carry Your Weight",
+		["level"] = 7,
+		["tracked"] = true,
+		["arrowPoint"] = {
+			["hash"] = 3577511882,
+			["c"] = 1,
+			["dist"] = 446.0245862931357,
+			["yDelta"] = 385.3574322706499,
+			["xDelta"] = 224.5831270860176,
+			["y"] = 0.532,
+			["x"] = 0.5699,
+			["title"] = "|cFFFFFF00[7] Carry Your Weight|r",
+			["z"] = 6,
+		},
+	},
+}
+QuestieConfig = {
+	["trackerMinimize"] = false,
+	["minLevelFilter"] = false,
+	["maxShowLevel"] = 3,
+	["showToolTips"] = true,
+	["getVersion"] = 3.69,
+	["boldColors"] = false,
+	["arrowEnabled"] = true,
+	["hideObjectives"] = false,
+	["hideMinimapIcons"] = false,
+	["showMapAids"] = true,
+	["trackerBackground"] = false,
+	["trackerEnabled"] = true,
+	["resizeWorldmap"] = false,
+	["showProfessionQuests"] = false,
+	["trackerAlpha"] = 0.4,
+	["trackerScale"] = 1,
+	["alwaysShowQuests"] = true,
+	["minShowLevel"] = 5,
+	["trackerList"] = false,
+	["corpseArrow"] = true,
+	["showTrackerHeader"] = false,
+	["maxLevelFilter"] = false,
+}
+QuestieTrackerVariables = {
+	["position"] = {
+		["relativeTo"] = "UIParent",
+		["point"] = "TOPLEFT",
+		["relativePoint"] = "TOPLEFT",
+		["yOfs"] = -498.3095361357361,
+		["xOfs"] = 30.95204575372646,
+	},
+}

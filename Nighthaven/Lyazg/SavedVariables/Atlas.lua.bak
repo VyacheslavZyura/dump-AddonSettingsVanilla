@@ -1,0 +1,18 @@
+
+AtlasOptions = {
+	["AtlasMapName"] = true,
+	["AtlasReplaceWorldMap"] = false,
+	["AtlasAlpha"] = 1,
+	["AtlasButtonRadius"] = 78,
+	["AtlasAutoSelect"] = false,
+	["AtlasScale"] = 1,
+	["AtlasClamped"] = true,
+	["AtlasAcronyms"] = true,
+	["AtlasType"] = 1,
+	["AtlasButtonShown"] = true,
+	["AtlasVersion"] = "1.8.6",
+	["AtlasButtonPosition"] = 337.0790330889979,
+	["AtlasZone"] = 1,
+	["AtlasRightClick"] = false,
+	["AtlasLocked"] = false,
+}

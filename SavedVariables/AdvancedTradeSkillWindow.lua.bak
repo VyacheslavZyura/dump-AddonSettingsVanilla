@@ -1,0 +1,57 @@
+
+atsw_orderby = {
+	["Lyazg"] = {
+		[""] = "nothing",
+	},
+}
+atsw_bankitemlist = {
+}
+atsw_merchantlist = {
+	["Ice Cold Milk"] = true,
+	["Haunch of Meat"] = true,
+	["Moonberry Juice"] = true,
+	["Melon Juice"] = true,
+	["Tough Jerky"] = true,
+	["Roasted Quail"] = true,
+	["Mutton Chop"] = true,
+	["Morning Glory Dew"] = true,
+	["Cured Ham Steak"] = true,
+	["Sweet Nectar"] = true,
+	["Wild Hog Shank"] = true,
+	["Refreshing Spring Water"] = true,
+}
+atsw_itemlist = {
+	["Nighthaven"] = {
+		["Lyazg"] = {
+			["Rough Blasting Powder"] = 1,
+			["Darnassian Bleu"] = 2,
+			["Chunk of Boar Meat"] = 2,
+			["Rough Dynamite"] = 2,
+			["Malachite"] = 1,
+			["Linen Cloth"] = 11,
+			["Refreshing Spring Water"] = 10,
+			["Cactus Apple Surprise"] = 7,
+			["Shiny Red Apple"] = 1,
+			["Minor Healing Potion"] = 5,
+			["Admiral Proudmoore's Orders"] = 1,
+			["Mining Pick"] = 1,
+			["Really Sticky Glue"] = 10,
+			["Hearthstone"] = 1,
+			["Copper Ore"] = 4,
+			["Rough Arrow"] = 12,
+		},
+	},
+}
+atsw_considerbank = false
+atsw_consideralts = false
+atsw_considermerchants = false
+atsw_autobuy = false
+atsw_multicount = true
+atsw_recipetooltip = true
+atsw_customsorting = {
+}
+atsw_customheaders = {
+}
+atsw_displayshoppinglist = true
+atsw_disabled = {
+}

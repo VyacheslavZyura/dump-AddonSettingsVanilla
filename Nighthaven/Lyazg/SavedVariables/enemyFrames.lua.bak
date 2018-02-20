@@ -1,0 +1,21 @@
+
+ENEMYFRAMESPLAYERDATA = {
+	["defaultIcon"] = "rank",
+	["mouseOver"] = 1,
+	["targetDebuffTimers"] = 1,
+	["nameplatesdebuffs"] = 1,
+	["offY"] = -398.3334507281594,
+	["nameplatesCastbar"] = 1,
+	["frameMovable"] = false,
+	["offX"] = 1318.547406392343,
+	["integratedTargetFrameCastbar"] = true,
+	["nameplatesClassColor"] = 1,
+	["plateDebuffSize"] = 1,
+	["layout"] = "block",
+	["displayNames"] = 1,
+	["scale"] = 1,
+	["groupsize"] = 5,
+	["nameplatesRaidMarks"] = 1,
+	["enableOutdoors"] = 1,
+	["targetFrameCastbar"] = true,
+}

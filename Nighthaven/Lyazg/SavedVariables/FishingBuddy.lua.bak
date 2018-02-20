@@ -1,0 +1,16 @@
+
+FishingBuddy_Player = {
+	["Settings"] = {
+		["ResetWatcher"] = 1,
+		["TitanClickToSwitch"] = 0,
+		["WatcherLocation"] = {
+			["y"] = -393.5238020919005,
+			["x"] = 40.2983967015545,
+		},
+		["InfoBarClickToSwitch"] = 0,
+	},
+	["WasWearing"] = {
+	},
+	["Outfit"] = {
+	},
+}

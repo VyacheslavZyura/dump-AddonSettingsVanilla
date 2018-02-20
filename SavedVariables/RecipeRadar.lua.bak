@@ -1,0 +1,19 @@
+
+RecipeRadar_SkillDB = {
+	["Nighthaven"] = {
+		["Lyazg"] = {
+			["Team"] = "Horde",
+			["Professions"] = {
+				["Fishing"] = {
+					["Recipes"] = {
+					},
+					["Rank"] = 0,
+				},
+			},
+			["Factions"] = {
+			},
+		},
+	},
+}
+RecipeRadar_NameCache = {
+}

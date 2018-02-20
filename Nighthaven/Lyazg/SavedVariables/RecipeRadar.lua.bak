@@ -1,0 +1,24 @@
+
+RecipeRadar_Options = {
+	["CurrentProfession"] = "Cooking",
+	["AutoSelectRegion"] = true,
+	["AutoMapVendors"] = false,
+	["Version"] = "1.11",
+	["ActiveTab"] = 1,
+	["MinimapButtonPosition"] = 256,
+	["ShowMinimapButton"] = true,
+	["Locked"] = false,
+	["RealmAvailability"] = true,
+}
+RecipeRadar_Filters = {
+	["Teams"] = {
+		["Horde"] = false,
+		["Alliance"] = true,
+	},
+	["Professions"] = {
+	},
+	["PersonAvails"] = {
+	},
+	["RealmAvails"] = {
+	},
+}

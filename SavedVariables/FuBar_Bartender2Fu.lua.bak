@@ -1,0 +1,10 @@
+
+Bartender2FuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["minimapPosition"] = 174.7977909521879,
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

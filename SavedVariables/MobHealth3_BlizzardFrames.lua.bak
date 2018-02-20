@@ -1,0 +1,11 @@
+
+MH3BlizzConfig = {
+	["healthX"] = 0,
+	["powerX"] = 0,
+	["healthPerc"] = true,
+	["healthY"] = 0,
+	["healthAbs"] = true,
+	["powerPerc"] = true,
+	["powerAbs"] = true,
+	["powerY"] = 0,
+}

@@ -1,0 +1,21 @@
+
+AtlasLootOptions = {
+	["SelectedZone"] = 1,
+	["SelectedZoneText"] = "Blackrock Depths",
+	["MinimapButtonAngle"] = 168,
+	["ItemIDs"] = false,
+	["Opaque"] = false,
+	["SafeLinks"] = true,
+	["HidePanel"] = false,
+	["EquipCompare"] = false,
+	["AllLinks"] = false,
+	["DefaultTT"] = true,
+	["SelectedBoss"] = 1,
+	["ItemSyncTT"] = false,
+	["SelectedType"] = 1,
+	["MinimapButton"] = true,
+	["LootlinkTT"] = false,
+}
+AtlasLootVersion = "20304"
+AtlasLootSavedTooltips = {
+}

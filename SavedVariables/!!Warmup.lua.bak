@@ -1,0 +1,258 @@
+
+WarmupSV = {
+	["time"] = 80748.70300000001,
+	["addoninfo"] = {
+		[1] = {
+			["time"] = 0,
+			["mem"] = 11,
+			["name"] = "!!Warmup",
+		},
+		[2] = {
+			["time"] = 0.2029999999940628,
+			["mem"] = 2249.200000000001,
+			["gc"] = true,
+			["name"] = "!!!Libs",
+		},
+		[3] = {
+			["time"] = 0.01600000000325963,
+			["mem"] = 168,
+			["name"] = "!ImprovedErrorFrame",
+		},
+		[4] = {
+			["time"] = 0,
+			["mem"] = 34,
+			["name"] = "!OmniCC",
+		},
+		[5] = {
+			["time"] = 0.0629999999946449,
+			["mem"] = 1031,
+			["name"] = "Ace2",
+		},
+		[6] = {
+			["time"] = 0.09300000000803266,
+			["mem"] = 3251.6,
+			["gc"] = true,
+			["name"] = "Cartographer",
+		},
+		[7] = {
+			["time"] = 0.6569999999919673,
+			["mem"] = 5933.799999999999,
+			["gc"] = true,
+			["name"] = "!Questie",
+		},
+		[8] = {
+			["time"] = 0,
+			["mem"] = 270,
+			["name"] = "Ace",
+		},
+		[9] = {
+			["time"] = 0.01499999999941792,
+			["mem"] = 147,
+			["name"] = "AceGUI",
+		},
+		[10] = {
+			["time"] = 0.03100000000267755,
+			["mem"] = 883,
+			["name"] = "AdvancedTradeSkillWindow",
+		},
+		[11] = {
+			["time"] = 0.01600000000325963,
+			["mem"] = 7,
+			["name"] = "AH_ShowBid",
+		},
+		[12] = {
+			["time"] = 0,
+			["mem"] = 7,
+			["name"] = "Align",
+		},
+		[13] = {
+			["time"] = 0,
+			["mem"] = 52,
+			["name"] = "AntiDaze",
+		},
+		[14] = {
+			["time"] = 0.01600000000325963,
+			["mem"] = 900,
+			["name"] = "Atlas",
+		},
+		[15] = {
+			["time"] = 0.01499999999941792,
+			["mem"] = 183,
+			["name"] = "EquipCompare",
+		},
+		[16] = {
+			["time"] = 0.1569999999919673,
+			["mem"] = 7393.599999999999,
+			["gc"] = true,
+			["name"] = "AtlasLoot",
+		},
+		[17] = {
+			["time"] = 0.06200000000535511,
+			["mem"] = 1266.400000000002,
+			["gc"] = true,
+			["name"] = "AtlasQuest",
+		},
+		[18] = {
+			["time"] = 0,
+			["mem"] = 10,
+			["name"] = "AutoEmote",
+		},
+		[19] = {
+			["time"] = 0,
+			["mem"] = 44,
+			["name"] = "AutoProfit",
+		},
+		[20] = {
+			["time"] = 0.03100000000267755,
+			["mem"] = 913,
+			["name"] = "Bartender2",
+		},
+		[21] = {
+			["time"] = 0,
+			["mem"] = 31,
+			["name"] = "Bartender2_Dreamlayout",
+		},
+		[22] = {
+			["time"] = 0,
+			["mem"] = 15,
+			["name"] = "Bartender2_HunterBars",
+		},
+		[23] = {
+			["time"] = 0,
+			["mem"] = 25,
+			["name"] = "Bartender2_n52",
+		},
+		[24] = {
+			["time"] = 0.01599999998870771,
+			["mem"] = 253,
+			["name"] = "ChatBar",
+		},
+		[25] = {
+			["time"] = 0,
+			["mem"] = 20,
+			["name"] = "ClassicSnowFall",
+		},
+		[26] = {
+			["time"] = 0.01600000000325963,
+			["mem"] = 390,
+			["name"] = "ColoredWhoClasses",
+		},
+		[27] = {
+			["time"] = 0.01499999999941792,
+			["mem"] = 270,
+			["name"] = "CT_MailMod",
+		},
+		[28] = {
+			["time"] = 0.01600000000325963,
+			["mem"] = 177,
+			["name"] = "CT_PlayerNotes",
+		},
+		[29] = {
+			["time"] = 0,
+			["mem"] = 56,
+			["name"] = "CustomNameplates",
+		},
+		[30] = {
+			["time"] = 0.06200000000535511,
+			["mem"] = 1124,
+			["name"] = "enemyFrames",
+		},
+		[31] = {
+			["time"] = 0.2189999999973225,
+			["mem"] = 5990,
+			["gc"] = true,
+			["name"] = "EngBags",
+		},
+		[32] = {
+			["time"] = 0.01600000000325963,
+			["mem"] = 75,
+			["name"] = "EzDismount",
+		},
+		[33] = {
+			["time"] = 0.01499999999941792,
+			["mem"] = 521,
+			["name"] = "FuBar_Bartender2Fu",
+		},
+		[34] = {
+			["time"] = 0,
+			["mem"] = 23,
+			["name"] = "ImprovedCamera",
+		},
+		[35] = {
+			["time"] = 0.01599999998870771,
+			["mem"] = 416,
+			["name"] = "LoadIT",
+		},
+		[36] = {
+			["time"] = 0,
+			["mem"] = 34,
+			["name"] = "LoseControl",
+		},
+		[37] = {
+			["time"] = 0.01600000000325963,
+			["mem"] = 82,
+			["name"] = "MBB",
+		},
+		[38] = {
+			["time"] = 0,
+			["mem"] = 472,
+			["name"] = "Mendeleev",
+		},
+		[39] = {
+			["time"] = 0.07800000000861473,
+			["mem"] = 2932,
+			["name"] = "MobInfo2",
+		},
+		[40] = {
+			["time"] = 0.01499999999941792,
+			["mem"] = 352,
+			["name"] = "MobHealth",
+		},
+		[41] = {
+			["time"] = 0,
+			["mem"] = 33,
+			["name"] = "MobHealth3_BlizzardFrames",
+		},
+		[42] = {
+			["time"] = 0.04699999999138527,
+			["mem"] = 1699,
+			["name"] = "RecipeRadar",
+		},
+		[43] = {
+			["time"] = 2.047000000005937,
+			["mem"] = 9891,
+			["gc"] = true,
+			["name"] = "ShaguDB",
+		},
+		[44] = {
+			["time"] = 0.01600000000325963,
+			["mem"] = 301,
+			["name"] = "SmartPet",
+		},
+		[45] = {
+			["time"] = 0,
+			["mem"] = 4,
+			["name"] = "SpecialTalent",
+		},
+		[46] = {
+			["time"] = 0.01499999999941792,
+			["mem"] = 354,
+			["name"] = "VanillaStoryline",
+		},
+		[47] = {
+			["time"] = 0.04699999999138527,
+			["mem"] = 899,
+			["name"] = "vQueue",
+		},
+		[48] = {
+			["time"] = 0.06300000000919681,
+			["mem"] = 997,
+			["name"] = "WIM",
+		},
+		[49] = {
+			["time"] = 0,
+			["mem"] = 82,
+			["name"] = "Cartographer_Mining",
+		},
+	},
+}

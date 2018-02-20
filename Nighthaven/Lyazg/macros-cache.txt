@@ -1,0 +1,6 @@
+MACRO 16777218 "Come" Ability_Hunter_BeastCall
+/script if PetCanBeAbandoned() then CastSpellByName(“Dismiss Pet”) else CastSpellByName(“Call Pet”);end
+END
+MACRO 16777217 "Heal pet" Ability_Hunter_MendPet
+/script if not UnitExists(“pet”) then CastSpellByName(“Revive Pet”); else if UnitIsDead(“pet”) then CastSpellByName(“Revive Pet”);else CastSpellByName(“Mend Pet”);end;end
+END
